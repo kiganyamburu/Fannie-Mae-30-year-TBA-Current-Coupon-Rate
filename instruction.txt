@@ -1,0 +1,47 @@
+Homework assignment #2 (total 2 points):   
+
+Problem 1: (0.25 points) Review the December 2025 Chart Book published by the Urban Institute 
+	Question 2-1: highlight top five things that you learned new from the chart book; and
+	Question 2-2: state three things that you do not understand.
+
+Problem 2: (0.25 points) Review Fannie Mae loan level terms from Recursion Glossary, and list the terms that you have confusion.
+
+Problem 3: (0.5 points) Agency primary mortgage market size as of January 2025 to December 2025 practice using the queries of Recursion’s Cohort Analyzer:
+Question 3-1: total outstanding balances of loans for each month by each Agency;
+Question 3-2: total issuance volumes of loans issued into Ginnie Mae, Fannie Mae, and Freddie Mac for each month of year 2025, respectively.
+
+ 
+GSE – Fannie Mae and Freddie Mac
+GNM – Ginnie Mae
+Agency:  Fannie Mae, Freddie Mac and Ginnie Mae
+
+Problem 4 (0.5 points) Spread between 30-year Primary mortgage rate index and 10-year Treasury Yield
+
+Download and study the weekly Primary Mortgage Market Survey rates by Freddie Mac from its website. The survey is collected from Thursday through Wednesday and the results are released on Thursdays at 12 p.m. ET.
+
+4-1 Also download the 10-year Treasury Rate history from Bloomberg or other sources.
+
+
+4-2 Create history of spreads between the weekly 30-year PMMS rate and the corresponding 10-year Treasury rate since 2000 in both table and Chart. 
+
+To ensure consistency, you can use either weekly Wednesday 10-Treasury Rates or the weekly average 10-Treasury Rates (from Thursday to Wednesday) 
+
+4-3 Reach your own conclusions on the mortgage rates and the mortgage spread over Treasury.
+
+
+
+Problem 5: (0.5 points) Spread between 30-year Primary mortgage rate and Fannie Mae 30-year TBA Current Coupon Rate
+
+
+5-1 Download the daily (and weekly, if exists) Fannie Mae 30-year TBA Current Coupon Rate (CC30) history from Bloomberg or other sources.
+
+5-2 Create history of spreads between the weekly 30-year PMMS rate and the corresponding Fannie Mae 30-year TBA Current Coupon Rate since 2000 (named primary secondary spread or PSS30) in basis points in both table and Chart. 
+To ensure consistency, you can use either weekly Wednesday Fannie Mae 30-year TBA Current Coupon Rates or the weekly Fannie Mae 30-year TBA Current Coupon Rates (from Thursday to Wednesday) 
+
+5-3 Run linear and non-linear regressions of PSS30 on CC30 using Python code. Reach your own conclusions including any limitations of such regressions and any recommendations to improve the predictions.
+
+
+
+
+
+
