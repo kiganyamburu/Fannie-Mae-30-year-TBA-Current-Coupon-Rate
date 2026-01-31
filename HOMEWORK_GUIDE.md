@@ -175,3 +175,4 @@ The notebook uses a proxy for the Fannie Mae 30-Year TBA Current Coupon Rate bec
 ### Weekly Alignment:
 
 Per the assignment instructions, all data is aligned to Wednesday to ensure consistency between the weekly PMMS survey and daily Treasury/CC30 data.
+Per the assignment instructions, all data is aligned to Wednesday to ensure consistency between the weekly PMMS survey and daily Treasury/CC30 data.
